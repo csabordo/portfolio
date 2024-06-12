@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h2>Kian G. Abordo</h2>
+        <div class="nav-bar">
+            <ul>
+                <li><a href="#prelim">Prelim</a></li>
+                <li><a href="#midterm">Midterm</a></li>
+                <li><a href="#finals">Final</a></li>
+            </ul>
+            </div>
+            <ul class="works_list">
+                <a href = "prelim.html">
+                <div class="works_article">
+                    <li>Prelim</li>
+                </div>
+                </a>
+                <a href ="midterm.html">
+                <div class="works_article">
+                    <li>Midterm</li>
+                </div>
+                </a>
+                <a href ="final.html">
+                <div class="works_article">
+                    <li>Final</li>
+                </div>
+                </a>
+            </ul>
+
+                <section id="contact" class="article">
+                    <h2>Contact</h2>
+                    <p>Email: kian.abordo05@gmail.com</p>
+                    <p>Facebook: https://www.facebook.com/kian.abordo.37/</p>
+                    <p>Phone: +63 960 412 3821</p>
+                    <p>GitHUB: https://github.com/csabordo</p>
+                </section>
+            </div>
+        </main>
+    
+        <footer>
+            <p>&copy; 2024 Kian G. Abordo</p>
+        </footer>
+    
+        <script src="script.js"></script>
+    </body>
+    </html>
+    
