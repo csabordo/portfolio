@@ -104,6 +104,8 @@ header {
 }
 
 .works_list {
+    display: flex;
+    flex-wrap: wrap;
 	justify-content: space-evenly;
 }
 
@@ -113,7 +115,6 @@ header {
     border-radius: 8px;
     box-shadow: 0 5px 4px rgba(0, 0, 0, 0.1);
     margin: 10px;
-    flex: 1;
 	min-width: 200px;
 	width: auto;
     text-align: center;
